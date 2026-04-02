@@ -1,4 +1,4 @@
-# blizzyinu
+# blizzy 🐟
 fazendo coisas
 
 <!--
