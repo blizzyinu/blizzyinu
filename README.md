@@ -1,5 +1,6 @@
-# blizzy 🐟
-fazendo coisas.
+# blizzy.
+
+Eng. da Computação.
 
 <!--
 **blizzyinu/blizzyinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
